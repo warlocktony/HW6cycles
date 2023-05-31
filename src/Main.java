@@ -67,7 +67,7 @@ public class Main {
         int total = 0;
         for (int i = 1; i <= 12; i++) {
             total = total + inPot;
-            System.out.println("month " + i + " the amount of annual savings " + total + " RUB!" );
+            System.out.println("month " + i + " the amount of annual savings " + total + " RUB" );
         }
 
     }
